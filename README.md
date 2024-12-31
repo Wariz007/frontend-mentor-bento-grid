@@ -23,11 +23,11 @@ Lesson Learnt:
 1. The complexity of working with the individual items in the grid thought me a lot on the capabilities and features of CSS grid, and it's a lesson that will make solving other grid problems that are not as complex as this easy.
 
 Snapshots:
-Desktop screensize:
+
 <img src="assets/Screenshots/Desktop.png">
 
-Tablet screensize:
+
 <img src="assets/Screenshots/Tablet.png">
 
-Mobile screensize:
+
 <img src="assets/Screenshots/Mobile.png">
