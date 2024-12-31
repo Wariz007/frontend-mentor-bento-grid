@@ -24,10 +24,14 @@ Lesson Learnt:
 
 Snapshots:
 
+Desktop screensize:
+
 <img src="assets/Screenshots/Desktop.png">
 
+Tablet screensize. The assignment didn't provide an example of how tablet screensize should look like so I had to improvise and come up with a concept myself. Having the same design for mobile and tablet didn't look good.
 
 <img src="assets/Screenshots/Tablet.png">
 
+Mobile screensize:
 
 <img src="assets/Screenshots/Mobile2.png">
