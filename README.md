@@ -30,4 +30,4 @@ Snapshots:
 <img src="assets/Screenshots/Tablet.png">
 
 
-<img src="assets/Screenshots/Mobile.png">
+<img src="assets/Screenshots/Mobile2.png">
